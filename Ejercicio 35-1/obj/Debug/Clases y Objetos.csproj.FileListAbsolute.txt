@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\bin\Debug\Clases y Objetos.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\bin\Debug\Clases y Objetos.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\bin\Debug\Clases y Objetos.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\obj\Debug\Clases y Objetos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\obj\Debug\Clases y Objetos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\obj\Debug\Clases y Objetos.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Clases y Objetos\obj\Debug\Clases y Objetos.pdb

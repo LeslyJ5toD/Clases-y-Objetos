@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\bin\Debug\ejercicio 2 clases y objetos.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\bin\Debug\ejercicio 2 clases y objetos.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\bin\Debug\ejercicio 2 clases y objetos.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\obj\Debug\ejercicio 2 clases y objetos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\obj\Debug\ejercicio 2 clases y objetos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\obj\Debug\ejercicio 2 clases y objetos.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\ejercicio 2 clases y objetos\obj\Debug\ejercicio 2 clases y objetos.pdb

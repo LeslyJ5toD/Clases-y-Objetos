@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\bin\Debug\Ejercicio clases y objetos 30 y pico.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\bin\Debug\Ejercicio clases y objetos 30 y pico.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\bin\Debug\Ejercicio clases y objetos 30 y pico.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\obj\Debug\Ejercicio clases y objetos 30 y pico.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\obj\Debug\Ejercicio clases y objetos 30 y pico.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\obj\Debug\Ejercicio clases y objetos 30 y pico.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio clases y objetos 30 y pico\obj\Debug\Ejercicio clases y objetos 30 y pico.pdb
